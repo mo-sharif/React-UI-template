@@ -1,4 +1,4 @@
-## Instagram Auth login front end
+## ProMania front end
 
 Connecting People with Businesses through Instagram
 
